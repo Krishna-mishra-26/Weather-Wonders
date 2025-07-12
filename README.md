@@ -8,6 +8,11 @@ A modern, responsive weather application that provides real-time weather informa
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 📸 Preview
+
+![Weather Website Screenshot](https://github.com/user-attachments/assets/44669dfd-4799-4e75-acaa-5b0fbc49669f)
+
+
 ## ✨ Features
 
 - 🌍 **Current Weather Display** - Real-time weather data for any city
